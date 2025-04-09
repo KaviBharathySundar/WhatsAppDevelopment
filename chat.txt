@@ -9,3 +9,5 @@ WhatsappDev
 
 5.test
 
+6.testforkfunction
+
